@@ -4,6 +4,7 @@
 
 ```shell
 Aplicacion para gestionar gastos, usando JS y haciendo uso de POO.
+se debe ingresar un presupuesto para poner en marcha su funcionamiento.
 ```
 
 [Gestor de pagos](https://festive-brahmagupta-9b32fe.netlify.app)
